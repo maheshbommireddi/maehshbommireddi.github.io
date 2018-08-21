@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/maheshbommireddi/maehshbom
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+I am making changes to this file. Added an [about page](https://github.com/maheshbommireddi/maehshbommireddi.github.io/edit/master/About.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,7 +23,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-I am making changes to this file. Added an [about page](https://github.com/maheshbommireddi/maehshbommireddi.github.io/edit/master/About.html)
+
 
 1. Numbered
 2. List
