@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-This shows wat ever changes i am doing here gona regflect in the web site.
+This shows what ever changes i am doing here gona regflect in the web site.
 
 
 ```markdown
@@ -22,7 +22,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-I am making changes to this file
+I am making changes to this file. Added an [about page](https://github.com/maheshbommireddi/maehshbommireddi.github.io/edit/master/About.html)
 
 1. Numbered
 2. List
